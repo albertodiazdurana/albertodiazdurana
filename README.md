@@ -4,6 +4,8 @@ Data Scientist | AI & Machine Learning Enthusiast | Python & Data Analytics
 
 Welcome to my GitHub! Here you'll find projects and exercises showcasing my journey from data analysis and statistical foundations to advanced AI applications. I turn complex data into actionable insights. Experienced in machine learning, process mining, NLP, computer vision, and time-series modeling, I build end-to-end solutions to solve real-world problems and optimize processes.
 
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-green?style=flat-square)](https://github.com/albertodiazdurana/data-science-portfolio) [![Certifications](https://img.shields.io/badge/View-Certifications-blue?style=flat-square)](https://github.com/albertodiazdurana/Certificates)
+
 🚀 Currently
 
 AI Data Science Training Program (Apr 2025 – May 2026): As part of my ongoing development, I'm specializing in LLM integration, prompt engineering, and retrieval-augmented generation (RAG). This includes hands-on experience developing AI tools and automated insight pipelines with LangChain, FastAPI, and cloud frameworks, while working with OpenAI API, ChatGPT, Claude, and Gemini to enhance analytics workflows and deploy generative AI solutions.
