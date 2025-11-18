@@ -1,41 +1,68 @@
-Hi there 👋, I'm Alberto
+# Hi there 👋, I'm Alberto
 
-Data Scientist | AI & Machine Learning Enthusiast | Python & Data Analytics
+**Senior Data Scientist | 10+ Years Production ML | PMP-Certified Engineer**
 
-Welcome to my GitHub! Here you'll find projects and exercises showcasing my journey from data analysis and statistical foundations to advanced AI applications. I turn complex data into actionable insights. Experienced in machine learning, process mining, NLP, computer vision, and time-series modeling, I build end-to-end solutions to solve real-world problems and optimize processes.
+I deploy production-ready ML solutions across manufacturing, sustainability, and financial services. Specialized in time series forecasting, process mining, and end-to-end data engineering pipelines. Currently expanding into LLM integration and RAG systems.
+
+## 🎯 What I Do
+
+- **Production ML**: Deployed 5+ models optimizing cement production, cutting CO₂ emissions across 35+ customers
+- **Process Optimization**: Led 10+ assessments reducing process times ~20% on average
+- **Data Engineering**: Built scalable pipelines handling 300K+ transactions with 99.1% sparsity
+- **Energy Systems**: Thermo-economic modeling and optimization for €71.5M project portfolio
+
+## 📊 Featured Work
 
 [![Portfolio](https://img.shields.io/badge/View-Portfolio-green?style=flat-square)](https://github.com/albertodiazdurana/data-science-portfolio) [![Certifications](https://img.shields.io/badge/View-Certifications-blue?style=flat-square)](https://github.com/albertodiazdurana/Certificates)
 
-🚀 Currently
+### Production Projects
 
-AI Data Science Training Program (Apr 2025 – May 2026): As part of my ongoing development, I'm specializing in LLM integration, prompt engineering, and retrieval-augmented generation (RAG). This includes hands-on experience developing AI tools and automated insight pipelines with LangChain, FastAPI, and cloud frameworks, while working with OpenAI API, ChatGPT, Claude, and Gemini to enhance analytics workflows and deploy generative AI solutions.
+🛒 **[Retail Demand Forecasting](https://github.com/albertodiazdurana/CorporacionFavorita-demand-forecasting-in-retail)**  
+XGBoost with MLflow tracking | 29 engineered features | SHAP analysis | Time-series CV
 
-🧩 My Learning & Projects
+👥 **[Customer Segmentation](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation)**  
+5,765 users | $23M CLV analysis | 97.2% high-confidence assignments | Propensity modeling
 
-Python for Data Analysis & Mathematical Foundations – Mastered Pandas, data wrangling, exploratory data analysis (EDA), probability theory, and statistical inference with practical projects.
+💰 **[Credit Risk Modeling](https://github.com/albertodiazdurana/loan-approval-prediction)**  
+80% accuracy | SHAP interpretability | 100-question interview prep guide
 
-Machine Learning – Gained hands-on experience with supervised and unsupervised ML, data preparation, feature engineering, and building predictive models for regression, classification, and clustering tasks.
+🏭 **[Cement Strength Prediction](https://github.com/albertodiazdurana/cement-strength-prediction-XGBoost)**  
+Manufacturing ML | XRD/XRF/PSD analysis | Time series cross-validation
 
-Data Science Portfolio Projects – Explored customer and business data, created custom metrics, performed customer segmentation, and developed portfolio-ready projects demonstrating end-to-end data science workflows.
+⚙️ **[Process Mining & NLP](https://github.com/albertodiazdurana/process-mining-and-sentiment_analysis)**  
+PM4Py workflows | Sentiment analysis | Business process optimization
 
-Time-Series Modeling – Analyzed sequential data with classical and ML methods, performed model evaluation and hyperparameter tuning, and built a forecasting service for predicting trends and insights.
+## 🛠️ Tech Stack
 
-Computer Vision – Implemented image classification pipelines, explored fundamental and advanced CV techniques, and tackled tasks beyond basic classification.
+**Core**: Python, SQL, Git  
+**ML/AI**: TensorFlow, XGBoost, scikit-learn, statsmodels, Prophet, SHAP  
+**MLOps**: MLflow, FastAPI, AWS, Argo, Sentry  
+**Viz**: Streamlit, Power BI, Matplotlib, Seaborn  
+**Specialized**: Process Mining (PM4Py), Time Series, LLM/RAG, Energy Systems
 
-NLP & Large Language Models – Processed text as data, built NLP classification models, and explored Large Language Models (LLMs) for text-driven insights.
+## 💼 Experience
 
-AI-Assisted Productivity – Applied AI tools for data preparation, model building, and advanced analytics, enhancing productivity and decision-making workflows.
+- **Alcemy GmbH** (2024-2025): Senior Data Scientist
+- **Appian Software** (2021-2024): Senior Consultant - Process Mining
+- **HEDERA Solutions** (2018-2021): Co-Founder & Data Scientist
+- **TU Berlin** (2019-2021): PhD Candidate - Energy Systems ML
 
-🛠 Skills & Tools
+## 🎓 Education & Credentials
 
-Python | Pandas | NumPy | Scikit-learn | XGBoost | PM4Py | Matplotlib | Seaborn | NLP | LLMs | Computer Vision | Time-Series Analysis | Data Wrangling | AI-Assisted Modeling | Statistical Inference
+- **MLOps Specialization** - DeepLearning.AI (2024)
+- **PMP** - Project Management Institute (2016)
+- **MSc Process & Energy Systems Engineering** - TU Berlin (2013)
+- **Mechanical Engineering** - Universidad de Los Andes (2006)
 
-📂 Featured Projects
+## 🌍 Languages
 
-Cement Strength Prediction – ML model predicting 28-day cement compressive strength from XRD/XRF/PSD data.
+Spanish (Native) | English (C2) | German (C2) | Portuguese (B2)
 
-Process Mining & Sentiment Analysis – PM4Py-based process mining, Twitter scraping with Twint, EDA, and sentiment analysis of penguin-related tweets.
+## 📫 Connect
 
-Customer Segmentation & Metrics – End-to-end portfolio project applying clustering, metric creation, and data storytelling.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-albertodiazdurana-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/albertodiazdurana)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:adiazdurana@gmail.com)
 
-Time-Series Forecasting Service – Built a predictive service using classical and ML methods for sequential data.
+---
+
+⭐ Open to opportunities in data science, ML engineering, and AI product development
