@@ -7,7 +7,6 @@ I deploy production-ready ML solutions across manufacturing, sustainability, and
 ## 🎯 What I Do
 
 - **Production ML**: Deployed 5+ models optimizing cement production, cutting CO₂ emissions across 35+ customers
-- **Computer Vision**: Transfer learning with CNNs, model interpretability with Grad-CAM
 - **Process Optimization**: Led 10+ assessments reducing process times ~20% on average
 - **Data Engineering**: Built scalable pipelines handling 300K+ transactions with 99.1% sparsity
 - **Energy Systems**: Thermo-economic modeling and optimization for €71.5M project portfolio
@@ -49,10 +48,10 @@ PM4Py workflows | Sentiment analysis | Business process optimization
 - **Alcemy GmbH** (2024-2025): Senior Data Scientist
 - **Appian Software** (2021-2024): Senior Consultant - Process Mining
 - **HEDERA Solutions** (2018-2021): Co-Founder & Data Scientist
-- **TU Berlin** (2019-2021): PhD Candidate - Energy Systems ML
 
 ## 🎓 Education & Credentials
 
+- **AI & Data Science Program** - Masterschool (2025) `In Progress`
 - **MLOps Specialization** - DeepLearning.AI (2024)
 - **PMP** - Project Management Institute (2016)
 - **MSc Process & Energy Systems Engineering** - TU Berlin (2013)
