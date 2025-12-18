@@ -17,20 +17,24 @@ I deploy production-ready ML solutions across manufacturing, sustainability, and
 
 ### Production Projects
 
-🛒 **[Retail Demand Forecasting](https://github.com/albertodiazdurana/CorporacionFavorita-demand-forecasting-in-retail)**  
+🛒 **[Retail Demand Forecasting](https://github.com/albertodiazdurana/CorporacionFavorita-demand-forecasting-in-retail)**
 XGBoost with MLflow tracking | 29 engineered features | SHAP analysis | Time-series CV
 
-👥 **[Customer Segmentation](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation)**  
+👥 **[Customer Segmentation](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation)**
 5,765 users | $23M CLV analysis | 97.2% high-confidence assignments | Propensity modeling
 
-💰 **[Credit Risk Modeling](https://github.com/albertodiazdurana/loan-approval-prediction)**  
+💰 **[Credit Risk Modeling](https://github.com/albertodiazdurana/loan-approval-prediction)**
 80% accuracy | SHAP interpretability | 100-question interview prep guide
 
-🏭 **[Cement Strength Prediction](https://github.com/albertodiazdurana/cement-strength-prediction-XGBoost)**  
+🏭 **[Cement Strength Prediction](https://github.com/albertodiazdurana/cement-strength-prediction-XGBoost)**
 Manufacturing ML | XRD/XRF/PSD analysis | Time series cross-validation
 
-⚙️ **[Process Mining & NLP](https://github.com/albertodiazdurana/process-mining-and-sentiment_analysis)**  
+⚙️ **[Process Mining & NLP](https://github.com/albertodiazdurana/process-mining-and-sentiment_analysis)**
 PM4Py workflows | Sentiment analysis | Business process optimization
+
+🖼️ **[CIFAR-10 Image Classification](https://github.com/albertodiazdurana/computer_vision)**
+ResNet50 transfer learning | Grad-CAM interpretability | 48.9% accuracy | Two-phase training | TensorFlow 
+
 
 ## 🛠️ Tech Stack
 
