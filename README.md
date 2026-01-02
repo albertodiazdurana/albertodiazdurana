@@ -1,70 +1,93 @@
-# Hi there 👋, I'm Alberto
+# Hi, I'm Alberto 👋
 
-**Senior Data Scientist | 10+ Years Production ML | PMP-Certified Engineer**
+**Senior Data Scientist** | 10+ Years Production ML | PMP Certified
 
-I deploy production-ready ML solutions across manufacturing, sustainability, and financial services. Specialized in time series forecasting, process mining, and end-to-end data engineering pipelines. Currently expanding into computer vision, LLM integration, and RAG systems.
+Mechanical engineer turned data scientist, specializing in **energy systems optimization**, time series forecasting, and production-ready ML pipelines. Background combines thermodynamic engineering with applied machine learning for sustainability applications.
 
-## 🎯 What I Do
-
-- **Production ML**: Deployed 5+ models optimizing cement production, cutting CO₂ emissions across 35+ customers
-- **Process Optimization**: Led 10+ assessments reducing process times ~20% on average
-- **Data Engineering**: Built scalable pipelines handling 300K+ transactions with 99.1% sparsity
-- **Energy Systems**: Thermo-economic modeling and optimization for €71.5M project portfolio
-
-## 📊 Featured Work
-
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-green?style=flat-square)](https://github.com/albertodiazdurana/data-science-portfolio) [![Certifications](https://img.shields.io/badge/View-Certifications-blue?style=flat-square)](https://github.com/albertodiazdurana/Certificates)
-
-### Production Projects
-
-🖼️ **[CIFAR-10 Image Classification](https://github.com/albertodiazdurana/computer_vision)** `🚧 Sprint 2`
-ResNet50 transfer learning | Grad-CAM interpretability | 48.9% accuracy | Two-phase training
-
-🛒 **[Retail Demand Forecasting](https://github.com/albertodiazdurana/CorporacionFavorita-demand-forecasting-in-retail)**
-XGBoost with MLflow tracking | 29 engineered features | SHAP analysis | Time-series CV
-
-👥 **[Customer Segmentation](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation)**
-5,765 users | $23M CLV analysis | 97.2% high-confidence assignments | Propensity modeling
-
-💰 **[Credit Risk Modeling](https://github.com/albertodiazdurana/loan-approval-prediction)**
-80% accuracy | SHAP interpretability | 100-question interview prep guide
-
-🏭 **[Cement Strength Prediction](https://github.com/albertodiazdurana/cement-strength-prediction-XGBoost)**
-Manufacturing ML | XRD/XRF/PSD analysis | Time series cross-validation
-
-⚙️ **[Process Mining & NLP](https://github.com/albertodiazdurana/process-mining-and-sentiment_analysis)**
-PM4Py workflows | Sentiment analysis | Business process optimization
-
-## 🛠️ Tech Stack
-
-**Core**: Python, SQL, Git
-**ML/AI**: TensorFlow, Keras, XGBoost, scikit-learn, statsmodels, Prophet, SHAP, Grad-CAM
-**MLOps**: MLflow, FastAPI, AWS, Argo, Sentry
-**Viz**: Streamlit, Power BI, Matplotlib, Seaborn
-**Specialized**: Process Mining (PM4Py), Time Series, Computer Vision, LLM/RAG, Energy Systems
-
-## 💼 Experience
-
-- **Alcemy GmbH** (2024-2025): Senior Data Scientist
-- **Appian Software** (2021-2024): Senior Consultant - Process Mining
-- **HEDERA Solutions** (2018-2021): Co-Founder & Data Scientist
-
-## 🎓 Education & Credentials
-
-- **AI & Data Science Program** - Masterschool (2025) `In Progress`
-- **MLOps Specialization** - DeepLearning.AI (2024)
-- **PMP** - Project Management Institute (2016)
-- **MSc Process & Energy Systems Engineering** - TU Berlin (2013)
-- **Mechanical Engineering** - Universidad de Los Andes (2006)
-
-## 🌍 Languages
-
-Spanish (Native) | English (C2) | German (C2) | Portuguese (B2)
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-albertodiazdurana-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/albertodiazdurana) [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:adiazdurana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/albertodiazdurana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=github)](https://github.com/albertodiazdurana/data-science-portfolio)
 
 ---
 
-⭐ Open to opportunities in data science, ML engineering, and AI product development
+## 🔥 Featured: Heating Curve Simulator
+
+Interactive tool for simulating and analyzing residential heating systems based on German engineering standards.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-science-residential-energy-systems-heating-curve.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/Code-Repository-black?logo=github)](https://github.com/albertodiazdurana/DataScience_ResidentialEnergySystems)
+
+- Real weather data from 8 German cities
+- Building presets: Heat Pump (slope 0.3) → Historic Altbau (slope 1.6)
+- Parameter extraction with OLS & RANSAC regression
+- All values referenced to DIN/VDI standards
+
+---
+
+## 🚀 Key Accomplishments
+
+| Impact | Description |
+|--------|-------------|
+| **5+ ML models** | Production deployment optimizing cement manufacturing, reducing CO₂ for 35+ customers |
+| **10+ assessments** | Process mining engagements achieving ~20% average time reduction |
+| **€71.5M portfolio** | Energy systems optimization across 225 real estate projects |
+| **300K+ transactions** | Scalable data pipelines with 99.1% sparsity handling |
+
+---
+
+## 📂 Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Heating Curve Simulator** | Energy systems simulation with live demo | [![Demo](https://img.shields.io/badge/Demo-Live-success)](https://data-science-residential-energy-systems-heating-curve.streamlit.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/albertodiazdurana/DataScience_ResidentialEnergySystems) |
+| **Retail Demand Forecasting** | XGBoost pipeline, 4.8M transactions, RMSE 6.40 | [![Demo](https://img.shields.io/badge/Demo-Live-success)](https://demand-forecasting-in-retail-app.streamlit.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/albertodiazdurana/Demand-forecasting-in-retail) |
+| **Customer Segmentation** | RFM analysis, $23M CLV, hierarchical clustering | [![Repo](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation) |
+| **Credit Risk Modeling** | Random Forest, 80% accuracy, SHAP interpretability | [![Repo](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/albertodiazdurana/loan-approval-prediction) |
+| **CIFAR-10 Classification** | ResNet50 transfer learning, computer vision | [![Repo](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/albertodiazdurana/computer_vision) |
+| **Cement Strength Prediction** | Industrial ML, XGBoost regression | [![Repo](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/albertodiazdurana/cement-strength-prediction-XGBoost) |
+
+[View Full Portfolio →](https://github.com/albertodiazdurana/data-science-portfolio)
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, SQL, Git |
+| **ML/AI** | TensorFlow, XGBoost, scikit-learn, Prophet, SHAP |
+| **MLOps** | MLflow, FastAPI, AWS, Argo, Sentry |
+| **Visualization** | Streamlit, Plotly, Power BI |
+| **Specializations** | Time Series, Energy Systems, Process Mining |
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Senior Data Scientist | Alcemy GmbH | 2024-2025 |
+| Senior Consultant, Process Mining | Appian Software | 2021-2024 |
+| Co-Founder & Data Scientist | HEDERA Solutions | 2018-2021 |
+
+---
+
+## 🎓 Education & Certifications
+
+- **Masterschool** — AI & Data Science Program (2025-2026)
+- **DeepLearning.AI** — MLOps Specialization (2024)
+- **TU Berlin** — MSc Process, Energy & Environmental Systems Engineering
+- **PMI** — Project Management Professional (PMP)
+- **Universidad de los Andes** — Mechanical Engineering
+
+---
+
+## 🌍 Languages
+
+🇪🇸 Spanish (Native) | 🇬🇧 English (C2) | 🇩🇪 German (C2) | 🇵🇹 Portuguese (B1)
+
+---
+
+📫 **Open to opportunities** in Data Science and Energy Engineering
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:albertodiazdurana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/albertodiazdurana)
