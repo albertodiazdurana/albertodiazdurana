@@ -13,13 +13,13 @@ Building production ML systems across manufacturing, sustainability, and financi
 
 ## Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer) | LLM agent + process mining for CI/CD optimization | LangChain, PM4Py, MLflow, Streamlit |
-| [Heating Curve Simulator](https://github.com/albertodiazdurana/DataScience_ResidentialEnergySystems) | Interactive energy systems tool (DIN/VDI standards) | Streamlit, Plotly, scikit-learn |
-| [Demand Forecasting](https://github.com/albertodiazdurana/CorporacionFavorita-demand-forecasting-in-retail) | 4.8M transactions, 11% RMSE improvement | XGBoost, MLflow, TensorFlow, Streamlit |
-| [Customer Segmentation](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation) | $23M CLV analysis, 97.2% confidence | scikit-learn, pandas, PCA |
-| [Credit Risk Modeling](https://github.com/albertodiazdurana/loan-approval-prediction) | 80% accuracy with SHAP interpretability | Random Forest, SHAP, SMOTE |
+| Project | Description | Tech | App |
+|---------|-------------|------|-----|
+| [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer) | LLM agent + process mining for CI/CD optimization | LangChain, PM4Py, MLflow, Streamlit | - |
+| [Computer Vision](https://github.com/albertodiazdurana/computer_vision) | Manufacturing defect detection; U-Net, autoencoder, ResNet | TensorFlow, MLflow, Streamlit | [Live](https://computer-vision-steel-defect-segmentation.streamlit.app/) |
+| [Heating Curve Simulator](https://github.com/albertodiazdurana/DataScience_ResidentialEnergySystems) | Interactive energy systems tool (DIN/VDI standards) | Streamlit, Plotly, scikit-learn | [Live](https://data-science-residential-energy-systems-heating-curve.streamlit.app/) |
+| [Demand Forecasting](https://github.com/albertodiazdurana/CorporacionFavorita-demand-forecasting-in-retail) | 4.8M transactions, 11% RMSE improvement | XGBoost, MLflow, TensorFlow, Streamlit | [Live](https://demand-forecasting-in-retail-app.streamlit.app/) |
+| [Customer Segmentation](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation) | $23M CLV analysis, 97.2% confidence | scikit-learn, pandas, PCA | - |
 
 [View Full Portfolio](https://github.com/albertodiazdurana/data-science-portfolio)
 
