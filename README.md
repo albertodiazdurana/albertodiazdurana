@@ -13,13 +13,13 @@ Building production ML systems across manufacturing, sustainability, and financi
 
 ## Featured Projects
 
-| Project | Description | Tech | App |
-|---------|-------------|------|-----|
-| [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer) | Agentic AI + process mining for CI/CD analysis (10K+ builds, 86 tests) | LangChain, LangGraph, PM4Py, MLflow | [Live](https://devflow-analyzer.streamlit.app/) |
-| [Computer Vision](https://github.com/albertodiazdurana/computer_vision) | Manufacturing defect detection; U-Net, autoencoder, ResNet | TensorFlow, MLflow, Streamlit | [Live](https://computer-vision-steel-defect-segmentation.streamlit.app/) |
-| [Heating Curve Simulator](https://github.com/albertodiazdurana/DataScience_ResidentialEnergySystems) | Interactive energy systems tool (DIN/VDI standards) | Streamlit, Plotly, scikit-learn | [Live](https://data-science-residential-energy-systems-heating-curve.streamlit.app/) |
-| [Demand Forecasting](https://github.com/albertodiazdurana/CorporacionFavorita-demand-forecasting-in-retail) | 4.8M transactions, 11% RMSE improvement | XGBoost, MLflow, TensorFlow, Streamlit | [Live](https://demand-forecasting-in-retail-app.streamlit.app/) |
-| [Customer Segmentation](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation) | $23M CLV analysis, 97.2% confidence | scikit-learn, pandas, PCA | - |
+| Project                                                                                                     | Description                                                            | Tech                                   | App                                                                                  |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------ |
+| [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer)                                   | Agentic AI + process mining for CI/CD analysis (10K+ builds, 86 tests) | LangChain, LangGraph, PM4Py, MLflow    | [Live](https://devflow-analyzer.streamlit.app/)                                      |
+| [Computer Vision](https://github.com/albertodiazdurana/computer_vision)                                     | Manufacturing defect detection; U-Net, autoencoder, ResNet             | TensorFlow, MLflow, Streamlit          | [Live](https://computer-vision-steel-defect-segmentation.streamlit.app/)             |
+| [Heating Curve Simulator](https://github.com/albertodiazdurana/DataScience_ResidentialEnergySystems)        | Interactive energy systems tool (DIN/VDI standards)                    | Streamlit, Plotly, scikit-learn        | [Live](https://data-science-residential-energy-systems-heating-curve.streamlit.app/) |
+| [Demand Forecasting](https://github.com/albertodiazdurana/CorporacionFavorita-demand-forecasting-in-retail) | 4.8M transactions, 11% RMSE improvement                                | XGBoost, MLflow, TensorFlow, Streamlit | [Live](https://demand-forecasting-in-retail-app.streamlit.app/)                      |
+| [Customer Segmentation](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation)              | $23M CLV analysis, 97.2% confidence                                    | scikit-learn, pandas, PCA              | -                                                                                    |
 
 [View Full Portfolio](https://github.com/albertodiazdurana/data-science-portfolio)
 
@@ -31,11 +31,14 @@ Building production ML systems across manufacturing, sustainability, and financi
 
 **Deploy**: Streamlit | FastAPI | AWS
 
-## Career Highlights
+---
 
-- **Alcemy GmbH**: 5+ ML models optimizing cement production, reducing CO2 across 35+ customers
-- **Appian Software**: 10+ process mining assessments, ~20% average process time reduction
-- **HEDERA Solutions**: Co-founded sustainability startup, 15+ international projects
+## 💼 Professional Highlights
+
+- **Alcemy GmbH** (2024-2025): Deployed 5+ ML models optimizing cement production, cutting CO₂ emissions across 35+ customers
+- **Appian Software** (2021-2024): Led 10+ process mining assessments, reducing process times ~20% on average
+- **HEDERA Sustainable Solutions GmbH** (2018-2021): Co-founded sustainability startup, built cloud-based systems for 15+ international projects
+- **TU Berlin** (2019-2021): PhD research in energy access prediction using semi-supervised ML
 
 ---
 
@@ -43,15 +46,15 @@ Building production ML systems across manufacturing, sustainability, and financi
 
 - **Masterschool** — AI & Data Science Program (2025-2026)
 - **DeepLearning.AI** — MLOps Specialization (2024)
-- **TU Berlin** — MSc Process, Energy & Environmental Systems Engineering
-- **PMI** — Project Management Professional (PMP)
-- **Universidad de los Andes** — Mechanical Engineering
+- **TU Berlin** — MSc Process, Energy & Environmental Systems Engineering (2010-2013)
+- **PMI** — Project Management Professional - PMP (2016)
+- **Universidad de los Andes** — Mechanical Engineering Diploma (2001-2006)
 
 ---
 
 ## 🌍 Languages
 
-🇪🇸 Spanish (Native) | 🇬🇧 English (C2) | 🇩🇪 German (C2) | 🇵🇹 Portuguese (B1)
+Spanish (Native) | English (C2) | German (C2) | Portuguese (B2)
 
 ---
 
