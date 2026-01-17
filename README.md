@@ -46,8 +46,10 @@ Building production ML systems across manufacturing, sustainability, and financi
 
 - **Masterschool** — AI & Data Science Program (2025-2026)
 - **DeepLearning.AI** — MLOps Specialization (2024)
-- **TU Berlin** — MSc Process, Energy & Environmental Systems Engineering (2010-2013)
+- **future Training & Consulting GmbH** — Data Science with Python (2018)
+- **Data Analytics for Six Sigma** (University of Amsterdam, 2017)
 - **PMI** — Project Management Professional - PMP (2016)
+- **TU Berlin** — MSc Process, Energy & Environmental Systems Engineering (2010-2013)
 - **Universidad de los Andes** — Mechanical Engineering Diploma (2001-2006)
 
 ---
