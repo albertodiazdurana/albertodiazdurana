@@ -18,7 +18,7 @@ Building production ML systems across manufacturing, sustainability, and financi
 | [RAG Document Assistant](https://github.com/albertodiazdurana/rag-document-assistant) *(In Development)*    | Production RAG with multi-provider LLMs and vector databases           | LangChain, ChromaDB, FastAPI, MLflow   | -                                                                                    |
 | [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer)                                   | Agentic AI + process mining for CI/CD analysis (10K+ builds, 86 tests) | LangChain, LangGraph, PM4Py, MLflow    | [Live](https://devflow-analyzer.streamlit.app/)                                      |
 | [Computer Vision](https://github.com/albertodiazdurana/computer_vision)                                     | Manufacturing defect detection; U-Net, autoencoder, ResNet             | TensorFlow, MLflow, Streamlit          | [Live](https://computer-vision-steel-defect-segmentation.streamlit.app/)             |
-| [Heating Curve Simulator](https://github.com/albertodiazdurana/DataScience_ResidentialEnergySystems)        | Interactive energy systems tool (DIN/VDI standards)                    | Streamlit, Plotly, scikit-learn        | [Live](https://data-science-residential-energy-systems-heating-curve.streamlit.app/) |
+| [Residential Energy Systems](https://github.com/albertodiazdurana/residential-heating-data-science-guide)  | Domain reference: ML + German heating standards                        | DIN/VDI/GEG, MLOps, Time Series        | [Simulator](https://data-science-residential-energy-systems-heating-curve.streamlit.app/) |
 | [Demand Forecasting](https://github.com/albertodiazdurana/CorporacionFavorita-demand-forecasting-in-retail) | 4.8M transactions, 11% RMSE improvement                                | XGBoost, MLflow, TensorFlow, Streamlit | [Live](https://demand-forecasting-in-retail-app.streamlit.app/)                      |
 | [Customer Segmentation](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation)              | $23M CLV analysis, 97.2% confidence                                    | scikit-learn, pandas, PCA              | -                                                                                    |
 
@@ -38,7 +38,7 @@ Building production ML systems across manufacturing, sustainability, and financi
 
 - **Alcemy GmbH** (2024-2025): Deployed 5+ ML models optimizing cement production, cutting CO₂ emissions across 35+ customers
 - **Appian Software** (2021-2024): Led 10+ process mining assessments, reducing process times ~20% on average
-- **TU Berlin** (2019-2021): PhD research in energy access prediction using semi-supervised ML
+- **TU Berlin** (2019-2021): PhD research in energy access prediction; CPOTE 2020 publication
 - **HEDERA Sustainable Solutions GmbH** (2018-2021): Co-founded sustainability startup, built cloud-based systems for 15+ international projects
 
 
