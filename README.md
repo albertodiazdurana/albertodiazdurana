@@ -1,10 +1,8 @@
 # Hi, I'm Alberto Diaz Durana
 
-**Senior Data Scientist** | 10+ Years Experience | Berlin
+**Senior Data Scientist | NLP & Process Mining** | 10+ Years Experience | Berlin
 
-Building production ML systems across manufacturing, sustainability, and financial services. Currently specializing in LLM integration and agentic AI at Masterschool.
-
-**Domain expertise:** Energy Systems Engineering (DIN/VDI standards) | Process Mining & BPM Optimization
+10+ years building production ML systems from scratch. Strong track record deploying end-to-end ML pipelines serving 35+ B2B customers. Currently specializing in agentic AI and LLM integration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/albertodiazdurana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=github)](https://github.com/albertodiazdurana/data-science-portfolio)
@@ -13,14 +11,16 @@ Building production ML systems across manufacturing, sustainability, and financi
 
 ## Featured Projects
 
-| Project                                                                                                          | Description                                                              | Tech                                   | App                                             |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- | ----------------------------------------------- |
-| [RAG Document Assistant](https://github.com/albertodiazdurana/rag-document-assistant) *(In Development)*         | Production RAG with multi-provider LLMs and vector databases             | LangChain, ChromaDB, FastAPI, MLflow   | -                                               |
-| [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer)                                        | Agentic AI + process mining for CI/CD analysis (10K+ builds, 86 tests)   | LangChain, LangGraph, PM4Py, MLflow    | [Live](https://devflow-analyzer.streamlit.app/) |
-| [Disaster Tweet Classification](https://github.com/albertodiazdurana/tfidf-to-transformers-with-disaster-tweets) | NLP evolution: TF-IDF → Embeddings → Transformers (F1: 0.77)             | Sentence Transformers, GloVe, FastText | -                                               |
-| [SQL Query Agent](https://github.com/albertodiazdurana/sql-query-agent-ollama)                                   | Natural language to SQL with local LLMs; self-correcting LangGraph agent | LangChain, LangGraph, Ollama, SQLGlot  | -                                               |
-| [DS Methodology](https://github.com/albertodiazdurana/agentic-ai-data-science-methodology)                       | Framework for AI-agent collaboration in data science projects            | Python, Jupyter, Markdown              | -                                               |
-| [DSM Graph Explorer](https://github.com/albertodiazdurana/dsm-graph-explorer)                                    | Documentation integrity validator; cross-reference graph analysis        | Python, pytest, Neo4j, NetworkX        | -                                               |
+The top three projects form a connected system: a methodology for AI-agent collaboration, a case study that stress-tests it, and a dog-fooding tool that validates its own documentation. Each feeds observations back to improve the others.
+
+| Project                                                                                                          | Description                                                             | Tech                                   | App                                             |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------- |
+| [SQL Query Agent](https://github.com/albertodiazdurana/sql-query-agent-ollama)                                   | Text-to-code testbed; 5-node LangGraph agent, 14-query eval, local LLMs | LangChain, LangGraph, Ollama, SQLGlot  | -                                               |
+| [DSM Graph Explorer](https://github.com/albertodiazdurana/dsm-graph-explorer)                                    | DSM dog-fooding: integrity validator, 145 tests, ~98% coverage          | Python, pytest, Neo4j, NetworkX        | -                                               |
+| [DS Methodology](https://github.com/albertodiazdurana/agentic-ai-data-science-methodology)                       | Framework for AI-agent collaboration in data science projects           | Python, Jupyter, Markdown              | -                                               |
+| [RAG Document Assistant](https://github.com/albertodiazdurana/rag-document-assistant) *(In Development)*         | Production RAG with multi-provider LLMs and vector databases            | LangChain, ChromaDB, FastAPI, MLflow   | -                                               |
+| [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer)                                        | Agentic AI + process mining for CI/CD analysis (10K+ builds, 86 tests)  | LangChain, LangGraph, PM4Py, MLflow    | [Live](https://devflow-analyzer.streamlit.app/) |
+| [Disaster Tweet Classification](https://github.com/albertodiazdurana/tfidf-to-transformers-with-disaster-tweets) | NLP evolution: TF-IDF → Embeddings → Transformers (F1: 0.77)            | Sentence Transformers, GloVe, FastText | -                                               |
 
 [View Full Portfolio](https://github.com/albertodiazdurana/data-science-portfolio)
 
@@ -46,7 +46,7 @@ Building production ML systems across manufacturing, sustainability, and financi
 
 ## 🎓 Education & Certifications
 
-- **Masterschool** — AI & Data Science Program (2025-2026)
+- **Masterschool** — AI & Data Science Program (since 09.2025)
 - **DeepLearning.AI** — MLOps Specialization (2024)
 - **future Training & Consulting GmbH** — Data Science with Python (2018)
 - **Data Analytics for Six Sigma** (University of Amsterdam, 2017)
