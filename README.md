@@ -13,15 +13,14 @@ Building production ML systems across manufacturing, sustainability, and financi
 
 ## Featured Projects
 
-| Project                                                                                                     | Description                                                            | Tech                                   | App                                                                                  |
-| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------ |
-| [RAG Document Assistant](https://github.com/albertodiazdurana/rag-document-assistant) *(In Development)*    | Production RAG with multi-provider LLMs and vector databases           | LangChain, ChromaDB, FastAPI, MLflow   | -                                                                                    |
-| [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer)                                   | Agentic AI + process mining for CI/CD analysis (10K+ builds, 86 tests) | LangChain, LangGraph, PM4Py, MLflow    | [Live](https://devflow-analyzer.streamlit.app/)                                      |
-| [Disaster Tweet Classification](https://github.com/albertodiazdurana/tfidf-to-transformers-with-disaster-tweets) | NLP evolution: TF-IDF → Embeddings → Transformers (F1: 0.77)      | Sentence Transformers, GloVe, FastText | -                                                                                    |
-| [Computer Vision](https://github.com/albertodiazdurana/computer_vision)                                     | Manufacturing defect detection; U-Net, autoencoder, ResNet             | TensorFlow, MLflow, Streamlit          | [Live](https://steel-defect-segmentation.streamlit.app/)                             |
-| [Residential Energy Systems](https://github.com/albertodiazdurana/residential-heating-data-science-guide)   | Domain reference: ML + German heating standards                        | DIN/VDI/GEG, MLOps, Time Series        | [Live](https://data-science-residential-energy-systems-heating-curve.streamlit.app/) |
-| [Demand Forecasting](https://github.com/albertodiazdurana/CorporacionFavorita-demand-forecasting-in-retail) | 4.8M transactions, 11% RMSE improvement                                | XGBoost, MLflow, TensorFlow, Streamlit | [Live](https://demand-forecasting-in-retail-app.streamlit.app/)                      |
-| [Customer Segmentation](https://github.com/albertodiazdurana/TravelTide_Customer_Segmentation)              | $23M CLV analysis, 97.2% confidence                                    | scikit-learn, pandas, PCA              | -                                                                                    |
+| Project                                                                                                          | Description                                                              | Tech                                   | App                                             |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------- | ----------------------------------------------- |
+| [RAG Document Assistant](https://github.com/albertodiazdurana/rag-document-assistant) *(In Development)*         | Production RAG with multi-provider LLMs and vector databases             | LangChain, ChromaDB, FastAPI, MLflow   | -                                               |
+| [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer)                                        | Agentic AI + process mining for CI/CD analysis (10K+ builds, 86 tests)   | LangChain, LangGraph, PM4Py, MLflow    | [Live](https://devflow-analyzer.streamlit.app/) |
+| [Disaster Tweet Classification](https://github.com/albertodiazdurana/tfidf-to-transformers-with-disaster-tweets) | NLP evolution: TF-IDF → Embeddings → Transformers (F1: 0.77)             | Sentence Transformers, GloVe, FastText | -                                               |
+| [SQL Query Agent](https://github.com/albertodiazdurana/sql-query-agent-ollama)                                   | Natural language to SQL with local LLMs; self-correcting LangGraph agent | LangChain, LangGraph, Ollama, SQLGlot  | -                                               |
+| [DS Methodology](https://github.com/albertodiazdurana/agentic-ai-data-science-methodology)                       | Framework for AI-agent collaboration in data science projects            | Python, Jupyter, Markdown              | -                                               |
+| [DSM Graph Explorer](https://github.com/albertodiazdurana/dsm-graph-explorer)                                    | Documentation integrity validator; cross-reference graph analysis        | Python, pytest, Neo4j, NetworkX        | -                                               |
 
 [View Full Portfolio](https://github.com/albertodiazdurana/data-science-portfolio)
 
@@ -47,7 +46,7 @@ Building production ML systems across manufacturing, sustainability, and financi
 
 ## 🎓 Education & Certifications
 
-- **Masterschool** — AI & Data Science Program (08.2025-03.2026)
+- **Masterschool** — AI & Data Science Program (2025-2026)
 - **DeepLearning.AI** — MLOps Specialization (2024)
 - **future Training & Consulting GmbH** — Data Science with Python (2018)
 - **Data Analytics for Six Sigma** (University of Amsterdam, 2017)
