@@ -2,7 +2,7 @@
 
 **Senior Data Scientist | NLP & Process Mining** | 10+ Years Experience | Berlin
 
-10+ years building production ML systems from scratch. Strong track record deploying end-to-end ML pipelines serving 35+ B2B customers. Currently specializing in agentic AI and LLM integration.
+10+ years building production ML systems from scratch. End-to-end ML pipelines serving 35+ B2B customers. Background in NLP, process mining, and MLOps. Currently specializing in agentic AI and LLM integration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/albertodiazdurana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=github)](https://github.com/albertodiazdurana/data-science-portfolio)
@@ -26,11 +26,11 @@ The top three projects form a connected system: a methodology for AI-agent colla
 
 ## Tech Stack
 
-**ML & AI**: TensorFlow | XGBoost | LangChain | LangGraph | Sentence Transformers | scikit-learn | SHAP | MLflow
+**Agentic AI & NLP**: LangChain | LangGraph | Ollama | Sentence Transformers | NLTK | Gensim | ChromaDB
 
-**Data**: Spark | Polars | pandas | SQL
+**ML & MLOps**: scikit-learn | MLflow | pytest | Python | SQL
 
-**Deploy**: Streamlit | FastAPI | AWS
+**Deploy**: Streamlit | FastAPI | AWS | Docker
 
 ---
 
