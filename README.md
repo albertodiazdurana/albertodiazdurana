@@ -15,7 +15,7 @@ The top three projects form a connected system: a methodology for AI-agent colla
 
 | Project                                                                                                          | Description                                                             | Tech                                   | App                                             |
 | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------- |
-| [SQL Query Agent](https://github.com/albertodiazdurana/sql-query-agent-ollama)                                   | Text-to-code testbed; 5-node LangGraph agent, 14-query eval, local LLMs | LangChain, LangGraph, Ollama, SQLGlot  | -                                               |
+| [SQL Query Agent](https://github.com/albertodiazdurana/sql-query-agent-ollama)                                   | Text-to-code testbed; 84-experiment ablation study, Streamlit UI, Docker | LangChain, LangGraph, Ollama, Streamlit | -                                               |
 | [DSM Graph Explorer](https://github.com/albertodiazdurana/dsm-graph-explorer)                                    | DSM dog-fooding: integrity validator, 145 tests, ~98% coverage          | Python, pytest, Neo4j, NetworkX        | -                                               |
 | [DS Methodology](https://github.com/albertodiazdurana/agentic-ai-data-science-methodology)                       | Framework for AI-agent collaboration in data science projects           | Python, Jupyter, Markdown              | -                                               |
 | [RAG Document Assistant](https://github.com/albertodiazdurana/rag-document-assistant) *(In Development)*         | Production RAG with multi-provider LLMs and vector databases            | LangChain, ChromaDB, FastAPI, MLflow   | -                                               |
@@ -26,7 +26,7 @@ The top three projects form a connected system: a methodology for AI-agent colla
 
 ## Tech Stack
 
-**Agentic AI & NLP**: LangChain | LangGraph | Ollama | Sentence Transformers | NLTK | Gensim | ChromaDB
+**Agentic AI & NLP**: LangChain | LangGraph | Ollama | SQLGlot | Sentence Transformers | NLTK | Gensim | ChromaDB
 
 **ML & MLOps**: scikit-learn | MLflow | pytest | Python | SQL
 
