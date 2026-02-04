@@ -1,4 +1,4 @@
-# Hi, I'm Alberto Diaz Durana 👋
+# Hi, I'm Alberto Diaz Durana
 
 **Senior Data Scientist | NLP & Process Mining** | 10+ Years Experience | Berlin
 
