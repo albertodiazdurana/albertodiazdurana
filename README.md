@@ -1,8 +1,8 @@
 # Hi, I'm Alberto Diaz Durana
 
-**Senior Data Scientist | NLP & Process Mining** | 10+ Years Experience | Berlin
+**Senior Data Scientist, ML & Data Engineer | Agentic AI, LLM, RAG | NLP, Process Mining** | 10+ Years Experience | Berlin
 
-10+ years building production ML systems from scratch. End-to-end ML pipelines serving 35+ B2B customers. Background in NLP, process mining, and MLOps. Currently specializing in agentic AI and LLM integration.
+Freelance Data Scientist & ML Engineer. 10+ years building production ML systems from scratch. End-to-end ML pipelines serving 35+ B2B customers. Background in NLP, process mining, and MLOps. Currently focused on agentic AI and LLM integration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/albertodiazdurana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=github)](https://github.com/albertodiazdurana/data-science-portfolio)
@@ -36,6 +36,7 @@ The top three projects form a connected system: a methodology for AI-agent colla
 
 ## 💼 Professional Highlights
 
+- **Freelance Data Scientist & ML Engineer** (2025-present): Freelance projects, open-source contributions ([IronCalc](https://github.com/ironcalc/IronCalc), 3.7K stars), and independent development of [DSM](https://github.com/albertodiazdurana/agentic-ai-data-science-methodology) methodology for AI-agent collaboration
 - **Alcemy GmbH** (2024-2025): Deployed 5+ ML models optimizing cement production, cutting CO₂ emissions across 35+ customers
 - **Appian Software** (2021-2024): Led 10+ process mining assessments, reducing process times ~20% on average
 - **TU Berlin** (2019-2021): PhD research in energy access prediction; CPOTE 2020 publication
