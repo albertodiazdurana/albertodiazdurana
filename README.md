@@ -26,9 +26,9 @@ The top three projects form a connected system: a methodology for AI-agent colla
 
 ## Tech Stack
 
-**Agentic AI & NLP**: LangChain | LangGraph | Ollama | SQLGlot | Sentence Transformers | NLTK | Gensim | ChromaDB
+**Agentic AI & NLP**: LangChain | LangGraph | Ollama | SQLGlot | Hugging Face Transformers | Sentence Transformers | NLTK | Gensim | ChromaDB
 
-**ML & MLOps**: scikit-learn | MLflow | pytest | Python | SQL
+**ML & MLOps**: scikit-learn | PyCaret | MLflow | SHAP | LIME | pytest | Python | SQL
 
 **Deploy**: Streamlit | FastAPI | AWS | Docker
 
