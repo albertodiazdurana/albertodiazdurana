@@ -9,7 +9,7 @@
 Freelance Data Scientist & ML Engineer. 10+ years building production ML systems from scratch. End-to-end ML pipelines serving 35+ B2B customers. Background in NLP, process mining, and MLOps. Currently focused on agentic AI and LLM integration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/albertodiazdurana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=github)](https://github.com/albertodiazdurana/take-ai-bite)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=github)](https://github.com/albertodiazdurana/data-science-portfolio)
 
 ---
 
@@ -21,12 +21,12 @@ The top three projects form a connected system: a methodology for AI-agent colla
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------- | ----------------------------------------------- |
 | [SQL Query Agent](https://github.com/albertodiazdurana/sql-query-agent-ollama)                                   | Text-to-code testbed; 84-experiment ablation study, Streamlit UI, Docker | LangChain, LangGraph, Ollama, Streamlit | Local                                           |
 | [DSM Graph Explorer](https://github.com/albertodiazdurana/dsm-graph-explorer)                                    | Epoch 2 complete; 331 tests, 96% coverage; convention linting              | Python, pytest, Neo4j, NetworkX         | CLI                                             |
-| [DS Methodology](https://github.com/albertodiazdurana/take-ai-bite)                       | Human-AI collaboration for DS, SW engineering & docs; ~10,400 lines      | Python, Jupyter, Markdown               | Docs                                            |
+| [DS Methodology](https://github.com/albertodiazdurana/data-science-portfolio)                       | Human-AI collaboration for DS, SW engineering & docs; ~10,400 lines      | Python, Jupyter, Markdown               | Docs                                            |
 | [RAG Document Assistant](https://github.com/albertodiazdurana/rag-document-assistant) *(On Ice)*                 | Production RAG with multi-provider LLMs and vector databases             | LangChain, ChromaDB, FastAPI, MLflow    | —                                               |
 | [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer)                                        | Agentic AI + process mining for CI/CD analysis (10K+ builds, 114 tests)  | LangChain, LangGraph, PM4Py, MLflow     | [Live](https://devflow-analyzer.streamlit.app/) |
 | [Disaster Tweet Classification](https://github.com/albertodiazdurana/tfidf-to-transformers-with-disaster-tweets) | NLP evolution: TF-IDF → Embeddings → Transformers (F1: 0.77)             | Sentence Transformers, GloVe, FastText  | Notebook                                        |
 
-[View Full Portfolio](https://github.com/albertodiazdurana/take-ai-bite)
+[View Full Portfolio](https://github.com/albertodiazdurana/data-science-portfolio)
 
 ## Tech Stack
 
@@ -40,7 +40,7 @@ The top three projects form a connected system: a methodology for AI-agent colla
 
 ## 💼 Professional Highlights
 
-- **Freelance Data Scientist & ML Engineer** (2025-present): Freelance projects, open-source contributions ([IronCalc](https://github.com/ironcalc/IronCalc), 3.7K stars), and independent development of [DSM](https://github.com/albertodiazdurana/take-ai-bite) methodology for AI-agent collaboration. Publishing the [Take AI Bite](https://takeaibite.de/) series on human-AI collaboration principles
+- **Freelance Data Scientist & ML Engineer** (2025-present): Freelance projects, open-source contributions ([IronCalc](https://github.com/ironcalc/IronCalc), 3.7K stars), and independent development of [DSM](https://github.com/albertodiazdurana/data-science-portfolio) methodology for AI-agent collaboration. Publishing the [Take AI Bite](https://takeaibite.de/) series on human-AI collaboration principles
 - **Alcemy GmbH** (2024-2025): Deployed 5+ ML models optimizing cement production, cutting CO₂ emissions across 35+ customers
 - **Appian Software** (2021-2024): Led 10+ process mining assessments, reducing process times ~20% on average
 - **TU Berlin** (2019-2021): PhD research in energy access prediction; CPOTE 2020 publication
