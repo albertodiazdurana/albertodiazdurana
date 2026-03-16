@@ -22,13 +22,13 @@ The top three projects form a connected system built on [Take AI Bite](https://g
 | Project                                                                                                          | Description                                                              | Tech                                    | Demo                                            |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------- | ----------------------------------------------- |
 | [SQL Query Agent](https://github.com/albertodiazdurana/sql-query-agent-ollama)                                   | Text-to-code testbed; 84-experiment ablation study, Streamlit UI, Docker | LangChain, LangGraph, Ollama, Streamlit | Local                                           |
-| [DSM Graph Explorer](https://github.com/albertodiazdurana/dsm-graph-explorer)                                    | Epoch 3 in progress; 355 tests, 96% coverage; v0.3.0                   | Python, pytest, FalkorDB, NetworkX         | CLI                                             |
-| [Take AI Bite](https://github.com/albertodiazdurana/take-ai-bite)                                            | Seven principles + DSM engine; field-tested across 15+ projects          | Python, Jupyter, Markdown               | [Website](https://takeaibite.de/)               |
+| [DSM Graph Explorer](https://github.com/albertodiazdurana/dsm-graph-explorer)                                    | Epoch 3 complete; 513 tests, 95% coverage; v0.3.0                      | Python, pytest, FalkorDB, NetworkX         | CLI                                             |
+| [Take AI Bite](https://github.com/albertodiazdurana/take-ai-bite)                                            | Eight principles + DSM engine; field-tested across 15+ projects          | Python, Jupyter, Markdown               | [Website](https://takeaibite.de/)               |
 | [RAG Document Assistant](https://github.com/albertodiazdurana/rag-document-assistant) *(On Ice)*                 | Production RAG with multi-provider LLMs and vector databases             | LangChain, ChromaDB, FastAPI, MLflow    | —                                               |
 | [DevFlow Analyzer](https://github.com/albertodiazdurana/devflow-analyzer)                                        | Agentic AI + process mining for CI/CD analysis (10K+ builds, 114 tests)  | LangChain, LangGraph, PM4Py, MLflow     | [Live](https://devflow-analyzer.streamlit.app/) |
 | [Disaster Tweet Classification](https://github.com/albertodiazdurana/tfidf-to-transformers-with-disaster-tweets) | NLP evolution: TF-IDF → Embeddings → Transformers (F1: 0.77)             | Sentence Transformers, GloVe, FastText  | Notebook                                        |
 
-[View Full Portfolio](https://github.com/albertodiazdurana/take-ai-bite)
+[View Full Portfolio](https://github.com/albertodiazdurana/data-science-portfolio)
 
 ## Tech Stack
 
@@ -42,7 +42,7 @@ The top three projects form a connected system built on [Take AI Bite](https://g
 
 ## 💼 Professional Highlights
 
-- **Freelance Data Scientist & ML Engineer** (2025-present): Freelance projects, open-source contributions ([IronCalc](https://github.com/ironcalc/IronCalc), 3.7K stars). Creator of [Take AI Bite](https://github.com/albertodiazdurana/take-ai-bite), a field-tested framework for human-AI collaboration with seven principles and a living methodology engine (DSM). Publishing at [takeaibite.de](https://takeaibite.de/) and [blog.take-ai-bite.com](https://blog.take-ai-bite.com/)
+- **Freelance Data Scientist & ML Engineer** (2025-present): Freelance projects, open-source contributions ([IronCalc](https://github.com/ironcalc/IronCalc), 3.7K stars). Creator of [Take AI Bite](https://github.com/albertodiazdurana/take-ai-bite), a field-tested framework for human-AI collaboration with eight principles and a living methodology engine (DSM). Publishing at [takeaibite.de](https://takeaibite.de/) and [blog.take-ai-bite.com](https://blog.take-ai-bite.com/)
 - **Alcemy GmbH** (2024-2025): Deployed 5+ ML models optimizing cement production, cutting CO₂ emissions across 35+ customers
 - **Appian Software** (2021-2024): Led 10+ process mining assessments, reducing process times ~20% on average
 - **TU Berlin** (2019-2021): PhD research in energy access prediction; CPOTE 2020 publication
