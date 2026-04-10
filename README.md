@@ -11,7 +11,7 @@ Creator of [Take AI Bite](https://take-ai-bite.com/about/), a framework for huma
 Data Scientist & AI Product Architect. 10+ years building production ML systems from scratch. End-to-end ML pipelines serving 35+ B2B customers. Expertise in NLP, agentic AI, process mining, and AI system design. Every decision in the projects below is mine; Take AI Bite is the structure that kept the collaboration disciplined, the decisions human, and the outcomes reproducible.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/albertodiazdurana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=github)](https://github.com/albertodiazdurana/data-science-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-181717?logo=github)](https://github.com/albertodiazdurana/data-science-portfolio)
 
 ---
 
