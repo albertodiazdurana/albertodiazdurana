@@ -6,7 +6,7 @@
 
 **Senior Data Scientist | AI Product Architect | Creator of Take AI Bite** | 10+ Years Experience | Berlin
 
-Creator of [Take AI Bite](https://take-ai-bite.com/about/), a framework for human-AI collaboration where the human stays in control, grows through the work, and retains every lesson learned. Powered by DSM, a living methodology engine that governs the full lifecycle of AI-assisted projects.
+Creator of [Take AI Bite](https://take-ai-bite.com/about/), a framework for human-AI collaboration where the human stays in control, grows through the work, and retains every lesson learned. Powered by a living methodology DSM (Deliberate Systematic Methodology) that governs the full lifecycle of AI-assisted projects, from research through implementation to governance.
 
 Data Scientist & AI Product Architect. 10+ years building production ML systems from scratch. End-to-end ML pipelines serving 35+ B2B customers. Expertise in NLP, agentic AI, process mining, and AI system design. Every decision in the projects below is mine; Take AI Bite is the structure that kept the collaboration disciplined, the decisions human, and the outcomes reproducible.
 
@@ -17,7 +17,7 @@ Data Scientist & AI Product Architect. 10+ years building production ML systems 
 
 ## Featured Projects
 
-The top three projects form a connected system built on [Take AI Bite](https://take-ai-bite.com/) principles: a human-AI collaboration framework, a case study that stress-tests it, and a dog-fooding tool that validates its own documentation. Each feeds observations back to improve the others.
+The top projects form a connected system built on [Take AI Bite](https://take-ai-bite.com/) principles: a human-AI collaboration framework, a case study that stress-tests it, and a dog-fooding tool that validates its own documentation. Each feeds observations back to improve the others.
 
 | Project                                                                                                          | Description                                                              | Tech                                    | Demo                                            |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------- | ----------------------------------------------- |
@@ -43,7 +43,7 @@ The top three projects form a connected system built on [Take AI Bite](https://t
 
 ## 💼 Professional Highlights
 
-- **Data Scientist & AI Product Architect, Take AI Bite** (2025-present): Creator of [Take AI Bite](https://github.com/albertodiazdurana/take-ai-bite) ([take-ai-bite.com](https://take-ai-bite.com/)), a framework for structured human-AI collaboration with 9 principles and a living methodology engine (DSM) governing a 14-repository ecosystem. Open-source contributor to [IronCalc](https://github.com/ironcalc/IronCalc) (3.7K stars). Publishing at [take-ai-bite.com](https://take-ai-bite.com/) and [blog.take-ai-bite.com](https://blog.take-ai-bite.com/)
+- **Data Scientist & AI Product Architect, Take AI Bite** (2025-present): Creator of [Take AI Bite](https://github.com/albertodiazdurana/take-ai-bite) ([take-ai-bite.com](https://take-ai-bite.com/)), a framework for structured human-AI collaboration with 9 principles and a living methodology engine (DSM) governing a 14-repository ecosystem. Publishing at [take-ai-bite.com](https://take-ai-bite.com/) and [blog.take-ai-bite.com](https://blog.take-ai-bite.com/)
 - **Alcemy GmbH** (2024-2025): Deployed 5+ ML models optimizing cement production, cutting CO₂ emissions across 35+ customers
 - **Appian Software** (2021-2024): Led 10+ process mining assessments, reducing process times ~20% on average
 - **TU Berlin** (2019-2021): PhD research in energy access prediction; CPOTE 2020 publication
@@ -52,15 +52,25 @@ The top three projects form a connected system built on [Take AI Bite](https://t
 
 ---
 
+## 🔧 Open Source Contributions
+
+- **[deepset-ai/haystack](https://github.com/deepset-ai/haystack)** (25K+ stars): two docs PRs merged into the Haystack ecosystem, adding Ollama tool-calling and streaming-with-tools examples ([#11268](https://github.com/deepset-ai/haystack/pull/11268), invited and merged by a deepset core member on first review; [integrations #473](https://github.com/deepset-ai/haystack-integrations/pull/473)).
+- **[IronCalc](https://github.com/ironcalc/IronCalc)** (EU-funded Rust spreadsheet engine, 3.7K stars): contributed the `ACCRINTM` financial function to the calculation engine, merged by the project founder ([#865](https://github.com/ironcalc/IronCalc/pull/865)).
+
+
+---
+
 ## 🎓 Education & Certifications
 
-- **Masterschool** — AI & Data Science Program (08.2025 - 02.2026)
+- **Masterschool / MSIT GmbH** — AI Data Science Specialization (2026) – 1,400 hours, AZAV-certified
 - **DeepLearning.AI** — MLOps Specialization (2024)
 - **future Training & Consulting GmbH** — Data Science with Python (2018)
 - **Data Analytics for Six Sigma** (University of Amsterdam, 2017)
 - **PMI** — Project Management Professional - PMP (2016)
 - **TU Berlin** — MSc Process, Energy & Environmental Systems Engineering (2010-2013)
 - **Universidad de los Andes** — Mechanical Engineering Diploma (2001-2006)
+
+[View all certifications →](https://github.com/albertodiazdurana/Certificates)
 
 ---
 
