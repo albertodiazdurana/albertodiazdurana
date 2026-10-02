@@ -4,11 +4,11 @@
   <img src="assets/take-ai-bite-logo.png" alt="Take AI Bite" width="120">
 </p>
 
-**Senior Data Scientist | AI Product Architect | Creator of Take AI Bite** | 10+ Years Experience | Berlin
+**AI Solutions Architect | From requirements to delivered, governed AI | Creator of Take AI Bite | AI Enablement & Strategy**
 
 Creator of [Take AI Bite](https://take-ai-bite.com/about/), a framework for human-AI collaboration where the human stays in control, grows through the work, and retains every lesson learned. Powered by a living methodology DSM (Deliberate Systematic Methodology) that governs the full lifecycle of AI-assisted projects, from research through implementation to governance.
 
-Data Scientist & AI Product Architect. 10+ years building production ML systems from scratch. End-to-end ML pipelines serving 35+ B2B customers. Expertise in NLP, agentic AI, process mining, and AI system design. Every decision in the projects below is mine; Take AI Bite is the structure that kept the collaboration disciplined, the decisions human, and the outcomes reproducible.
+Data Scientist & AI Solutions Architect. 10+ years building production ML systems from scratch. End-to-end ML pipelines serving 35+ B2B customers. Expertise in NLP, agentic AI, process mining, and AI system design. Every decision in the projects below is mine; Take AI Bite is the structure that kept the collaboration disciplined, the decisions human, and the outcomes reproducible.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/albertodiazdurana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-181717?logo=github)](https://github.com/albertodiazdurana/data-science-portfolio)
@@ -43,7 +43,8 @@ The top projects form a connected system built on [Take AI Bite](https://take-ai
 
 ## 💼 Professional Highlights
 
-- **Data Scientist & AI Product Architect, Take AI Bite** (2025-present): Creator of [Take AI Bite](https://github.com/albertodiazdurana/take-ai-bite) ([take-ai-bite.com](https://take-ai-bite.com/)), a framework for structured human-AI collaboration with 13 principles and a living methodology engine (DSM) governing a multi-repository ecosystem. Publishing at [take-ai-bite.com](https://take-ai-bite.com/) and [blog.take-ai-bite.com](https://blog.take-ai-bite.com/)
+- **AI Solutions Architect, Team Passerelle** (2026-present): Guiding companies through responsible AI adoption, working with management and employee representatives so the people whose work changes have a real say in how it changes. *Gute KI. Gute Arbeit.*
+- **Data Scientist & AI Solutions Architect, Take AI Bite** (2025-present): Creator of [Take AI Bite](https://github.com/albertodiazdurana/take-ai-bite) ([take-ai-bite.com](https://take-ai-bite.com/)), a framework for structured human-AI collaboration with 13 principles and a living methodology engine (DSM) governing a multi-repository ecosystem. Publishing at [take-ai-bite.com](https://take-ai-bite.com/) and [blog.take-ai-bite.com](https://blog.take-ai-bite.com/)
 - **Alcemy GmbH** (2024-2025): Deployed 5+ ML models optimizing cement production, cutting CO₂ emissions across 35+ customers
 - **Appian Software** (2021-2024): Led 10+ process mining assessments, reducing process times ~20% on average
 - **TU Berlin** (2019-2021): PhD research in energy access prediction; CPOTE 2020 publication
@@ -79,8 +80,6 @@ The top projects form a connected system built on [Take AI Bite](https://take-ai
 Spanish (Native) | English (C2) | German (C2) | Portuguese (B2)
 
 ---
-
-Open to opportunities in **Data Science**, **ML Engineering**, and **AI Product Development** | [Take AI Bite](https://github.com/albertodiazdurana/take-ai-bite)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:albertodiazdurana@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/albertodiazdurana)
