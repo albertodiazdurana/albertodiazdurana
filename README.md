@@ -41,7 +41,7 @@ The top projects form a connected system built on [Take AI Bite](https://take-ai
 
 ---
 
-## 💼 Professional Highlights
+## Professional Highlights
 
 - **AI Solutions Architect, Team Passerelle** (2026-present): Guiding companies through responsible AI adoption, working with management and employee representatives so the people whose work changes have a real say in how it changes. *Gute KI. Gute Arbeit.*
 - **Data Scientist & AI Solutions Architect, Take AI Bite** (2025-present): Creator of [Take AI Bite](https://github.com/albertodiazdurana/take-ai-bite) ([take-ai-bite.com](https://take-ai-bite.com/)), a framework for structured human-AI collaboration with 13 principles and a living methodology engine (DSM) governing a multi-repository ecosystem. Publishing at [take-ai-bite.com](https://take-ai-bite.com/) and [blog.take-ai-bite.com](https://blog.take-ai-bite.com/)
@@ -53,7 +53,7 @@ The top projects form a connected system built on [Take AI Bite](https://take-ai
 
 ---
 
-## 🔧 Open Source Contributions
+## Open Source Contributions
 
 - **[deepset-ai/haystack](https://github.com/deepset-ai/haystack)** (25K+ stars): two docs PRs merged into the Haystack ecosystem, adding Ollama tool-calling and streaming-with-tools examples ([#11268](https://github.com/deepset-ai/haystack/pull/11268), invited and merged by a deepset core member on first review; [integrations #473](https://github.com/deepset-ai/haystack-integrations/pull/473)).
 - **[IronCalc](https://github.com/ironcalc/IronCalc)** (EU-funded Rust spreadsheet engine, 3.7K stars): contributed the `ACCRINTM` financial function to the calculation engine, merged by the project founder ([#865](https://github.com/ironcalc/IronCalc/pull/865)).
@@ -61,21 +61,21 @@ The top projects form a connected system built on [Take AI Bite](https://take-ai
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- **Masterschool / MSIT GmbH** — AI Data Science Specialization (2026) – 1,400 hours, AZAV-certified
-- **DeepLearning.AI** — MLOps Specialization (2024)
-- **future Training & Consulting GmbH** — Data Science with Python (2018)
+- **Masterschool / MSIT GmbH**, AI Data Science Specialization (2026), 1,400 hours, AZAV-certified
+- **DeepLearning.AI**, MLOps Specialization (2024)
+- **future Training & Consulting GmbH**, Data Science with Python (2018)
 - **Data Analytics for Six Sigma** (University of Amsterdam, 2017)
-- **PMI** — Project Management Professional - PMP (2016)
-- **TU Berlin** — MSc Process, Energy & Environmental Systems Engineering (2010-2013)
-- **Universidad de los Andes** — Mechanical Engineering Diploma (2001-2006)
+- **PMI**, Project Management Professional - PMP (2016)
+- **TU Berlin**, MSc Process, Energy & Environmental Systems Engineering (2010-2013)
+- **Universidad de los Andes**, Mechanical Engineering Diploma (2001-2006)
 
 [View all certifications →](https://github.com/albertodiazdurana/Certificates)
 
 ---
 
-## 🌍 Languages
+## Languages
 
 Spanish (Native) | English (C2) | German (C2) | Portuguese (B2)
 
